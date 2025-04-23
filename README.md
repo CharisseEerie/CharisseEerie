@@ -21,4 +21,4 @@ Check out my pinned repositories below or scroll through my repo list for experi
 
 ---
 
-> "Charisse" – because making software behave is easier than making people do the same.
+> making software behave is easier than making people do the same.
