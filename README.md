@@ -1,8 +1,8 @@
 # Hi, I'm Charisse
 
-Aspiring software engineer with a thing for Python, clean logic, and systems that actually *work*. I've spent more hours than I'd like to admit building and breaking things just to figure out how they tick. Self-taught, self-driven, and probably overcaffeinated.
+Aspiring telecommunications engineer with a thing for Python, clean logic, and systems that actually *work*. I've spent somewhat more hours than I'd like to admit building and breaking things just to figure out how they tick. Self-taught and self-driven.
 
-I don't just write code—I shape ideas into working systems with Python as my tool of choice. From scrapers and automation to APIs and the occasional experimental chaos, I like to get my hands dirty.
+I don't just write code... I shape ideas into working systems with Python as my tool of choice. 
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,7 +13,7 @@ I don't just write code—I shape ideas into working systems with Python as my t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Projects
-Check out my pinned repositories below or scroll through my repo list for experiments, mini-projects, and things I accidentally left public.
+Check out my pinned repositories below, few they are, but just scroll through my repo list for experiments, mini-projects, and things I accidentally left public.
 
 ### Contact
 - **Email:** charissearah1@gmail.com  
